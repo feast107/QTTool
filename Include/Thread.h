@@ -6,5 +6,5 @@ namespace QtTool{
 
 }
 #define RunAsync QtConcurrent::run
-#define Sleep QThread::sleep(1)
+
 #endif // QTHREAD_H
