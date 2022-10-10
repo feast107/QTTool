@@ -1,2 +1,2 @@
-# QTTool
+# QtTool
  封装一点QT工具类
